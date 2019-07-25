@@ -1,4 +1,4 @@
-# thanosrestaurant
+# Thanos Restaurant
 
 Learn Flutter with love
 
