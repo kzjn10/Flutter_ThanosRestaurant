@@ -1,6 +1,8 @@
 # Thanos Restaurant
 
-Learn Flutter with love
+Learn Flutter with love.
+
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ## Getting Started
 
